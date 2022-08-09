@@ -88,3 +88,8 @@ Listening on port 5001!
 - Follow plugin node setup guide https://docs.goplugin.co/plugin-installations/how-to-install-plugin-node/modular-method-deployment-recommended-approach 
 - Make sure, your node is pointed to "Apothem" network
 - Create a bridge in Plugin UI & point that to 5002, so the plugin & external-initiator can communicate with external-adapter
+
+
+## License Information
+
+Source code files are made available under the Apache License, Version 2.0 (Apache-2.0), located in the LICENSE file.
